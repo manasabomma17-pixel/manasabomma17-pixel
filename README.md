@@ -12,9 +12,13 @@ Developer who enjoys building AI-powered applications and clean, useful web expe
 
 ## 🛠️ Tech Stack
 **Languages:** Python · JavaScript · TypeScript · Go · SQL
+
 **Frontend:** React · React Native
+
 **Backend:** FastAPI · REST APIs · WebSockets
+
 **AI/ML:** Machine Learning · Data Analysis
+
 **Tools:** Git · GitHub · DBMS
 
 
